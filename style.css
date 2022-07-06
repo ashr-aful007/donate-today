@@ -70,10 +70,14 @@
 #seliction p{
     color: #FF5959;
 }
-.other-amount{
+.other-amount input{
     margin-top: 50px;
     margin-bottom: 26px;
-    border-bottom: 1px solid #8a8987; 
+    border-top: 0px; 
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid #8a8987;
+    border-bottom-width: 1px;
 }
 /*--------------x---------Donate-amount-section----------x---------------------------------*/
 /*----------------------our-Donate-plan----------------------------------*/
